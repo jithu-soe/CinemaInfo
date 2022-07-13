@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/CinemaInfo/static/css/main.0c404f00.css",
-    "main.js": "/CinemaInfo/static/js/main.2baf32ca.js",
+    "main.js": "/CinemaInfo/static/js/main.209de46d.js",
     "index.html": "/CinemaInfo/index.html",
     "static/media/search.svg": "/CinemaInfo/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
     "main.0c404f00.css.map": "/CinemaInfo/static/css/main.0c404f00.css.map",
-    "main.2baf32ca.js.map": "/CinemaInfo/static/js/main.2baf32ca.js.map"
+    "main.209de46d.js.map": "/CinemaInfo/static/js/main.209de46d.js.map"
   },
   "entrypoints": [
     "static/css/main.0c404f00.css",
-    "static/js/main.2baf32ca.js"
+    "static/js/main.209de46d.js"
   ]
 }
