@@ -16,13 +16,13 @@ const App = () => {
     
       <BrowserRouter basename="/ReactMovieDB">
        <Routes>
-           <Title />
+           
            
 
              
              <Route path="/" element={ <Home /> } />
            
-           <Footer />
+           
        </Routes>
        </BrowserRouter>
       
