@@ -1,6 +1,6 @@
 
 import React from "react";
-import { BrowserRouter, Route,Routes, Switch} from 'react-router-dom';
+import { BrowserRouter, Route,Routes} from 'react-router-dom';
 
 import Title from "./Title.js"
 import Footer from "./Footer.js"
@@ -17,11 +17,11 @@ const App = () => {
       <BrowserRouter basename="/ReactMovieDB">
        <Routes>
            <Title />
-           <Switch>
+           
 
              
              <Route path="/" element={ <Home /> } />
-           </Switch>
+           
            <Footer />
        </Routes>
        </BrowserRouter>
